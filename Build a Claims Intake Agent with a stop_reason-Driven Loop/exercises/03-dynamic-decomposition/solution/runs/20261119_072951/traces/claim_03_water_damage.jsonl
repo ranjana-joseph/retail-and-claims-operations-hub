@@ -1,0 +1,2 @@
+{"turn": 1, "stop_reason": "tool_use", "tool_calls": [{"id": "toolu_01DbLHckShGUT7RyvKWbAypk", "name": "lookup_policy", "input": {"policy_id": "POL-1004"}}], "latency_ms": 1155.7, "input_tokens": 2776, "output_tokens": 78}
+{"turn": 2, "stop_reason": "end_turn", "tool_calls": [], "latency_ms": 2505.4, "input_tokens": 2953, "output_tokens": 156}
